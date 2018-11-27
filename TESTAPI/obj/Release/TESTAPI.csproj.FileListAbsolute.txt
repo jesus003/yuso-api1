@@ -1,0 +1,200 @@
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\ApplicationInsights.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\TESTAPI.dll.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\TESTAPI.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\TESTAPI.pdb
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\csc.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\csc.exe.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\csc.rsp
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\csi.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\csi.rsp
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\vbc.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\vbc.exe.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\vbc.rsp
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Antlr3.Runtime.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\EntityFramework.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Newtonsoft.Json.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Helpers.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Http.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Mvc.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Optimization.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Razor.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.WebPages.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\WebGrease.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\EntityFramework.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Newtonsoft.Json.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Helpers.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Http.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Mvc.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Optimization.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Razor.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.WebPages.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\obj\Release\TESTAPI.Migrations.InitialCreate.resources
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\obj\Release\TESTAPI.csproj.GenerateResource.cache
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\obj\Release\TESTAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\obj\Release\TESTAPI.csproj.CopyComplete
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\obj\Release\TESTAPI.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\obj\Release\TESTAPI.pdb
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\obj\Release\TESTAPI.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\DnsClient.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Buffers.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\DnsClient.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Cors.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI\TESTAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\ApplicationInsights.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\TESTAPI.dll.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\TESTAPI.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\TESTAPI.pdb
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\csc.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\csc.exe.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\csc.rsp
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\csi.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\csi.rsp
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\vbc.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\vbc.exe.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\vbc.rsp
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Antlr3.Runtime.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\DnsClient.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\EntityFramework.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Newtonsoft.Json.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Buffers.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Cors.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Helpers.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Http.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Mvc.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Optimization.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Razor.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.WebPages.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\WebGrease.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\DnsClient.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\EntityFramework.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\MongoDB.Driver.Core.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Newtonsoft.Json.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Http.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Helpers.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Mvc.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Optimization.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.Razor.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.WebPages.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\obj\Release\TESTAPI.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\obj\Release\TESTAPI.Migrations.InitialCreate.resources
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\obj\Release\TESTAPI.csproj.GenerateResource.cache
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\obj\Release\TESTAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\obj\Release\TESTAPI.csproj.CopyComplete
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\obj\Release\TESTAPI.dll
+C:\Users\Jesus Ontiveros\Source\repos\TESTAPI original\TESTAPI\obj\Release\TESTAPI.pdb
